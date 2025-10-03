@@ -9,6 +9,6 @@ using namespace vex;
 extern MyBrain *my_brain;
 extern controller Controller;
 
-extern motor motor_test;
+extern motor Motors[n];//电机组，n待定
 
 #endif
